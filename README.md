@@ -1,4 +1,11 @@
-## _**PLEASE READ THIS TO COMPLETION BEFORE ASKING ANY QUESTIONS!**_
+## _**WELCOME TO LEAGUE OF BETS!**_
+
+## Basics
+This is a web application designed to link League of Legends esports (LCS, LEC, LPL, LCK, etc.) with your League of Legends account. The goal of this project is to find a use for the abundant amount of Blue Essence (in-game currency with no monetary value). Players will be able to bet on who they think will win and eventually add multipliers such as:
+- number of takedowns/kills/assists
+- amount of time to win
+- who takes first blood
+- and more! 
 
 ### _**IMPORTANT NOTES**_ - 
 This project does not have a mongoDB connection setup. Setup the connection based on the environments below.
@@ -72,3 +79,8 @@ To learn how to setup a local MongoDB instance for testing, check out how to [co
 To learn how to deploy a full-stack web app to heroku, check out [this great guide](https://daveceddia.com/deploy-react-express-app-heroku/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Todo
+- [x] Plan design
+- [x] Create Repo
+- [ ] Create User stories
