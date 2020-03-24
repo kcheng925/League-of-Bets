@@ -8,11 +8,7 @@ This is a web application designed to link League of Legends esports (LCS, LEC, 
 - and more! 
 
 ### _**IMPORTANT NOTES**_ - 
-This project does not have a mongoDB connection setup. Setup the connection based on the environments below.
-- local development: create a config file (make sure to name it config.js) in the config folder, which exports your db.uri connection. An example is provided, config/config.example.js. This file will be ignored by git so your db credentials will be kept safe when the app is deployed.
-- production: Since the config file is not pushed when you deploy your app, you must specifiy your db uri in heorku. Set the uri in heroku as specified in [this](https://devcenter.heroku.com/articles/config-vars) resource. Make sure you name the environement variable "DB_URI".
-
-This project contains an example project board meant to showcase how one can be used. The issues posted to it are not real issues.
+This has no affliation with Riot Games or LOLesports. This is a personal project that others can use to have fun with esports. The concept of using your account to link with Riot Games is used only in theory.
 
 ## Getting Started
 This repository aims to assist you in beginning work on a MERN stack application for heroku deployment with a solid file structure as a foundation. To get started make a copy of this template repo for your project teams by clicking the green "Use this template" button above.
@@ -83,4 +79,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Todo
 - [x] Plan design
 - [x] Create Repo
-- [ ] Create User stories
+- [ ] Landing Page
+- [ ] Betting Page
+
