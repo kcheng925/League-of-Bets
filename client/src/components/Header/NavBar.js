@@ -5,10 +5,7 @@ import './NavBar.css';
 const NavBar = () => {
     return (
         <div className = "header">
-            {/* Logo */}
-            <Link className = "nav-title" to="/">
-                <img className = "nav-logo" src={ "/logo192.png" } alt="React logo" />
-            </Link>
+           
 
             {/* Page Links */}
             <div className = "nav-items">
